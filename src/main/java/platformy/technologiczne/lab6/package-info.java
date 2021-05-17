@@ -1,0 +1,1 @@
+package platformy.technologiczne.lab6;
